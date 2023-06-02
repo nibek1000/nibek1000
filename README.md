@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://blazejczyk.net/](https://blazejczyk.net/)
 
+- 🪖See my codewars attempts [repo](https://github.com/nibek1000/Codewars) & [profile](https://www.codewars.com/users/nibek1000)
+
 - 📫 How to reach me **mateusz@blazejczyk.net**
 
 - ⚡ Fun fact **Lemon juice has 38.7 mg vitamin C**
